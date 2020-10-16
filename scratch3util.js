@@ -13,7 +13,6 @@ class scratchutil {
                             "defaultValue": "scratch.mit.edu"
                         }
                     }
-                },
             }],
         "menus": {}
     };
